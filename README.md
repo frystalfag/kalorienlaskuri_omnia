@@ -33,9 +33,3 @@ Ruoat tallennetaan data.json-tiedostoon samaan kansioon missä main.py on.
 Jokainen ruoka on siellä muodossa name ja calories. Jos tiedostoa ei löydy
 (esim. ensimmäisellä käynnistyskerralla) tai se on jotenkin rikki, ohjelma
 ei kaadu vaan aloittaa tyhjällä listalla.
-
-Parityöskentely
-
-[Tähän lyhyesti miten työ jaettiin, esim. kuka kirjoitti mitäkin ja miten
-Driver/Navigator-roolit vaihtu, ja jos oli joku hankala kohta niin miten se
-ratkastiin yhdessä.]
